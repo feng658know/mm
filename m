@@ -252,5 +252,3 @@ http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 
-#EXTINF:-1 tvg-id="1978" tvg-name="蜡笔小新" tvg-logo="" group-title="其他",蜡笔小新
-https://cdn.hkdtmb.com/hls/81b/index.m3u8
