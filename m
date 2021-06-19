@@ -209,6 +209,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 rtmp://59.124.75.130/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZTXW.jpg" group-title="港澳台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/sl.jpg" group-title="港澳台",三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",TVN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
