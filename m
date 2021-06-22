@@ -273,3 +273,5 @@ http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",测试
+p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
