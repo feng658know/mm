@@ -86,7 +86,7 @@ http://39.135.32.29:6610/000000001000/1000000002000024033/1.m3u8?
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://183.207.255.190/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://111.12.102.68:6610/PLTV/77777777/224/3221225669/index.m3u8?
+http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://39.135.138.8:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
@@ -251,4 +251,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",国家地理
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索频道
+rtmp://58.200.131.2:1935/livetv/discovery
