@@ -229,12 +229,16 @@ http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Astro·Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Astro-港剧台
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",HBO-综合
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",HBO-强档
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",HBO-原创
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHKWorld
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/TY.jpg" group-title="港澳台",天映频道
@@ -263,7 +267,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",国家地理
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
