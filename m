@@ -82,9 +82,9 @@ https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=3372b79c680f0b06f21cdcbd71835ff9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZH.jpg" group-title="广东",珠海1台
 https://dslive.grtn.cn/zhzh/sd/live.m3u8?_upt=8665d5001623917283&auth_key=1623912026-0-0-85a6e25f9928f40ab21b2ef19b4a852a
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://111.12.102.68:6610/PLTV/77777777/224/3221225639/index.m3u8?
+http://39.135.32.29:6610/000000001000/1000000002000024033/1.m3u8?
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://111.12.102.68:6610/PLTV/77777777/224/3221225686/index.m3u8?
+http://183.207.255.190/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://111.12.102.68:6610/PLTV/77777777/224/3221225669/index.m3u8?
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
@@ -94,7 +94,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?
+http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
