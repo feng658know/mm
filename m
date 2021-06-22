@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg#http://wshls.homecdn.com/live/4387.m3u8#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://39.135.32.29:6610/000000001000/1000000001000021973/1.m3u8?#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil#http://cm.wshls.homecdn.com/live/11ecc.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
