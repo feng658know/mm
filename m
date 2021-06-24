@@ -26,7 +26,7 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/m
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
