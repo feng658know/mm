@@ -274,8 +274,6 @@ http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1, tvg-logo=爱上4K.png tvg-name=爱上4K group-title=4K频道, 爱上4K
 http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1, tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=4K频道, 欢笑剧场4K
-http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 #EXTINF:-1,  tvg-logo=咪咕4K.png tvg-name=咪咕4K group-title=4K频道, 咪咕4K
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8	
 
