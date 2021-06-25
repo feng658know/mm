@@ -267,8 +267,18 @@ http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K频道",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1, tvg-logo=纯享4K.png tvg-name=纯享4K group-title=4K频道, 纯享4K
+http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1, tvg-logo=爱上4K.png tvg-name=爱上4K group-title=4K频道, 爱上4K
+http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1, tvg-logo=欢笑剧场4K.png tvg-name=欢笑剧场4K group-title=4K频道, 欢笑剧场4K
+http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
+#EXTINF:-1,  tvg-logo=咪咕4K.png tvg-name=咪咕4K group-title=4K频道, 咪咕4K
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8	
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",探索频道
