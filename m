@@ -192,7 +192,7 @@ rtmp://59.124.75.130/sat/tv111
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
 rtmp://59.124.75.130/sat/tv071
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/litv-ftv13-audio_20000=113000-video=2000000.m3u8?token=ddYsAXcVudm9Sgj8XGhmAA&expires=1625002117&token1=8BKMP8qqftLzEX9m8Lf3pA&expires1=1625002117
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_2000000=3-mp4a_138000=2.m3u8?token=tfslMGrjQjiGZkPAvHYOrA&expires=1625001771&token1=icAB79Kkq6HimK2N86grgQ&expires1=1625001771
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐
