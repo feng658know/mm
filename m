@@ -295,3 +295,5 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合",体育赛事
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合",测试
+http://seb.sason.top/ptv/ftv.php?id=ms
