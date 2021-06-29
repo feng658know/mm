@@ -271,6 +271,27 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHKWorld
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="海外",Discovery Eve
+http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="海外",BBC Earthᴴᴰ
+http://198.16.106.62:8278/streams/d/bbcearthᴴᴰ_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="海外",BBC Earth Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXETV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="海外",Luxe TV
+http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="海外",Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="海外",Nick Jr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="海外",Baby TV Eng
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="海外",CBeebies
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="海外",Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png" group-title="海外",Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/TY.jpg" group-title="港澳台",天映频道
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/TYJD.jpg" group-title="港澳台",天映经典
