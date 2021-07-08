@@ -92,6 +92,15 @@ https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=883e5dd3250e1140e4969da231a9a1a8
 https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=3372b79c680f0b06f21cdcbd71835ff9-pLcL4Ujn3UqifPUoyXVFcpox1h1bpvl%2Fr1wnKKdLeKsNkw4Md9JghDF7Dmozl8FbjIvc4dCDYSj86Y3ajbM8JkBx1DLlcjRbJGpLk52MYUGP2vqaWJEeAYfzBNs%2FqWt%2BXzBOZ33lQQvJm5twzp5O%2Fz9bxfOFlHGn0ExzVsghzq7nsolHS0Hesfw1T7QD08wN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZH.jpg" group-title="广东",珠海1台
 https://dslive.grtn.cn/zhzh/sd/live.m3u8?_upt=8665d5001623917283&auth_key=1623912026-0-0-85a6e25f9928f40ab21b2ef19b4a852a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山公共
+http://149.129.100.78/tv.php?id=zsgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山公共
+http://dslive.grtn.cn/zszh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山教育
+http://149.129.100.78/tv.php?id=zsjy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山综合
+http://149.129.100.78/tv.php?id=zszh
+
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://39.135.32.29:6610/000000001000/1000000002000024033/1.m3u8?
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
