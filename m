@@ -94,8 +94,6 @@ https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=3372b79c680f0b06f21cdcbd71835ff9
 https://dslive.grtn.cn/zhzh/sd/live.m3u8?_upt=8665d5001623917283&auth_key=1623912026-0-0-85a6e25f9928f40ab21b2ef19b4a852a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山公共
 http://149.129.100.78/tv.php?id=zsgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山公共
-http://dslive.grtn.cn/zszh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山教育
 http://149.129.100.78/tv.php?id=zsjy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZSGG.jpg" group-title="广东",,中山综合
