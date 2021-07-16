@@ -285,13 +285,13 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="海外",#EXTINF-1 FOXCRIME
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="海外",FOXCRIME
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",#EXTINF-1 FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",FOX
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="海外",#EXTINF-1 FOX动作电影
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="海外",FOX动作电影
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="海外",#EXTINF-1 FOX家庭电影
+#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="海外",FOX家庭电影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHKWorld
