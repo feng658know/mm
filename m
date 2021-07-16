@@ -282,7 +282,7 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",HBO-强档
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",HBO-原创
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",#EXTINF-1 FOX
