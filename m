@@ -263,6 +263,9 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
 http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",#EXTINF-1 寰宇新闻台
+https://flv3948069e.live.126.net/live/aae1755e2d12a6baa66b0c7a941b9f0a.flv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Astro AEC HD
