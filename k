@@ -432,3 +432,29 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=深圳卫视.png tvg-name=深圳卫视 group-title=卫视频道,深圳卫视
+http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221227695/index.m3u8
+#EXTINF:-1 tvg-logo=深圳都市.png tvg-name=深圳都市 group-title=卫视频道,深圳都市
+https://sztv-live.cutv.com/ZwxzUXr/500/53uZ7x0.m3u8
+#EXTINF:-1 tvg-logo=深圳电视剧 .png tvg-name=深圳电视剧 group-title=卫视频道,深圳电视剧
+https://sztv-live.cutv.com/4azbkoY/500/21r17z0.m3u8
+#EXTINF:-1 tvg-logo=深圳少儿 .png tvg-name=深圳少儿  group-title=动画频道,深圳少儿 
+https://sztv-live.cutv.com/1SIQj6s/500/y2r17I0.m3u8
+#EXTINF:-1 tvg-logo=南方卫视 .png tvg-name=南方卫视  group-title=卫视频道,南方卫视 
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo=广东卫视 .png tvg-name=广东卫视  group-title=卫视频道,广东卫视 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-logo=广东珠江 .png tvg-name=广东珠江  group-title=卫视频道,广东珠江 
+http://39.135.32.29:6610/000000001000/1000000004000011655/1.m3u8?
+#EXTINF:-1 tvg-logo=广东体育 .png tvg-name=广东体育  group-title=体育频道,广东体育 
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo=广东公共 .png tvg-name=广东公共  group-title=卫视频道,广东公共 
+http://ggtctv.gdtv.cn/live/gdgg.m3u8?auth_key=1641479158-0-0-6f453a62ad265d5fde4bc7cb5ff78ec9
+#EXTINF:-1 tvg-logo=珠江频道  .png tvg-name=珠江频道   group-title=其他频道,珠江频道 
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo=南京少儿 .png tvg-name=南京少儿  group-title=动画频道,南京少儿 
+http://ls.qingting.fm/live/3701149.m3u8
+#EXTINF:-1 tvg-logo=湖南卫视 .png tvg-name=湖南卫视  group-title=卫视频道,湖南卫视 
+http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-hd/1.m3u8
