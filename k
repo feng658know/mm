@@ -89,7 +89,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="电影",北京4K超清
 http://beifeng.site:4000/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="电影",北京IPTV淘电影
-http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="电影",北京IPTV淘娱乐
 http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 
@@ -324,15 +324,15 @@ http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卡通",优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="地方",求索动物
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
 
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K频道",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
